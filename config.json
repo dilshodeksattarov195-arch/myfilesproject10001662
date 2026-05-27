@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfave",
+        "uuid": 11883300,
+        "checksum": "gusmy"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
